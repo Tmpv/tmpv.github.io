@@ -23,3 +23,10 @@ p {
   }
 }
 
+#about {
+  .subheading {
+    a {
+      text-transform: none;
+    }
+  }
+}
