@@ -1,2 +1,8 @@
 collections:
   - page_sections
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
