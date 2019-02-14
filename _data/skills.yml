@@ -1,0 +1,26 @@
+- category_name: Programming Languages and frameworks
+  entries:
+    - name: Ruby
+      percentage: 90
+    - name: RubyOnRails
+      percentage: 70
+    - name: Javascript
+      percentage: 50
+- category_name: Databases
+  entries:
+    - name: PostgreSQL
+      percentage: 50
+    - name: MySQL
+      percentage: 20
+- category_name: Version control
+  entries:
+    - name: Git
+      percentage: 60
+- category_name: Languages
+  entries:
+    - name: Bulgarian(mother tongue)
+      percentage: 90
+    - name: German
+      percentage: 60
+    - name: English
+      percentage: 50

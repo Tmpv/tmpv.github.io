@@ -14,3 +14,12 @@
 p {
   text-align: justify;
 }
+
+.resume-progress-bar {
+  padding: 5px;
+  border-radius: 10px;
+  .progress-bar {
+    border-radius: 10px;
+  }
+}
+
