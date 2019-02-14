@@ -1,0 +1,25 @@
+- position: Unemployed
+  company: Out on a job hunt
+  description: Currently I am taking some time off work. I have to take some well earned vacation and take some time to work on myself(as they say). But this does not mean I am not open to new opportunities.
+  start_date: December 2018
+  end_date:   Currently
+- position: Software developer
+  company: Tradeo.com
+  description: I was working again on a RubyOnRails application, but on a lot greater scale as my previous projects. Our application was a social trader platform, you could sign up and trade on the FOREX marked and also check, how other people ware trading and learn from them. Here worked with some really good coder and I learned a lot of best practices in general programming. The web application was big monolith rails application, communicating with a line of inhouse micro(written in NODJS and Golang) and third party service. We also had mobile application, which pulled data from the monolith, using a JSON API. My work was mostly tied to the this monolith and problems related with this application, but I had to write a few microservices solving inhouse problems. We a decant code review procedure and height code quality standards. Also it was a delight to work with such wonderful people, as everybody(well with some exceptions) was friendly and ready to help. But after some time our team started to disperse and I decided to follow.
+  start_date: July 2016
+  end_date:   December 2018
+- position: Freelancer
+  company: Freelance
+  description: During this period I worked on a startup, aiming to develop smart power switches. I worked on the front end and developed a web page controlling the devices, managing profile information and admin the devices. Also we made a few small ruby(rack) microservices, witch accepted data from the devices. During this period I helped as an assistant in a programmer ruby course we did for people with small technical background, who wanted to take up programming.
+  start_date: November 2015
+  end_date:   July 2016
+- position: Software developer
+  company: Insurance software technologies
+  description: This was my first work as a professional developer. Our application was a RubyOnRails project and we did all the work related with developing and supporting such a project(developing, testing, deploying, etc). The product was a web platform for the insurance brokers, which soled car insurances. The main feature of the software was the ability to compare prices of insurance policies of a variety of insurance company. It did this by taking the parameters of a vehicle and send this info to the insurance companies using their API's. The hard work was to integrate those API's into our system as they ware quite outdated and most of them ware not so good documented. Our team consisted of at first of three and then five coders, mostly inexperienced and we did some of things on the trail and error principle. I did learn a lot from our mistakes, but we also did a lot of things right, we had a decent build and deploy process(although we lacked testing) and the product was stable.
+  start_date:   June 2012
+  end_date:     November 2015
+- position: Technical support
+  company: Microlab
+  description: Our company was hired to support hardware and software issues for the Height Court of Bulgaria. My job was to fix trivial Microsoft Windows and hardware problems. Problems like broker printers, explain basic usage of all kinds of windows software products to nontechnical people and admin most of the computers of judges in the court. During this time I trained my `people` skills and patience. I worked part-time as was going to a university at that time. There ware periods of low worker load and I used this time to learn programming. Doing basic coding tutorials and I started to learn PHP/Ruby.
+  start_date: April 2011
+  end_date:   June 2012
