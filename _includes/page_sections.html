@@ -1,0 +1,10 @@
+{% assign sections = site.page_sections | where: "visible", true | sort: "position"%}
+{% for section in sections %}
+  <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="{{ section.href }}">
+    <div class="w-100">
+      {{ section.content }}
+    </div>
+  </section>
+
+  <hr class="m-0">
+{% endfor %}
