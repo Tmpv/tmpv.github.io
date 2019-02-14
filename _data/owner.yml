@@ -1,0 +1,22 @@
+first_name: Toma
+last_name:  Popov
+address:  Sofia, Bulgaria
+email: t0ma.popov.90@gmail.com
+social_links:
+  - href: "#"
+    icon: "linkedin-in"
+  - href: "#"
+    icon:  "github"
+  # - href: "#"
+  #   icon: "twitter"
+  # - href: "#"
+  #   icon: "facebook-f"
+resume:
+  - Hello, I am Toma. This humble webpage's job is to shed some light on my work experience and personality.
+  - In a nutshell I have been working as a software developer since 2012. For this period I have learned a lot about the development of web applications.  I have been involved in processes of planing, developing and deploying web applications.
+  - Problems like estimating how much time a task will take(lets say that the success rating for this is about 50%), integration of third party API's, with scares to no documentation(blindly digging into the API's routes is always fun), figuring out why something went completely wrong or completely right.
+  - Coding mostly I do during my work hours, as I think, that every developer has to detox from programming in order to be productive the next time he/she sits down in front off the monitor. The downside of this is that, I have done almost no contribution to the open source community. A mistake I hope, I will have the time and motivation to fix.
+  - I have mainly worked with Ruby On Rails applications and I comfortable working with the framework, but I am open to learn new and exiting things.
+  - In my free time I like to play PC games(no consoles) and drink beer/rakia(https://en.wikipedia.org/wiki/Reiki). But aside the stereotypical coder hobbies I like cooking(you are, what you eat), snowboarding, swimming, reading books and recently I took up photography as a hobby.
+  - Also in the past years I try to travel a bit more, then before.
+  - The rest of the page contains a bit more detailed information on my previous jobs, education and additional interests.
