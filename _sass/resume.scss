@@ -1,6 +1,16 @@
+/*!
+ * Start Bootstrap - Resume v5.0.3 (https://startbootstrap.com/template-overviews/resume)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+*/
+
 @import "variables.scss";
 @import "mixins.scss";
 @import "global.scss";
 @import "nav.scss";
 @import "resume-item.scss";
 @import "bootstrap-overrides.scss";
+
+p {
+  text-align: justify;
+}
