@@ -3,19 +3,19 @@
   description: Swimming is something I don't do very often nowadays, but when I do it helps me relax and let some steam out.
 - title: Snowboarding
   icon: snowboarding
-  description: For most of the people winter is the season of lethargy, of eating a lot of tasty food and sitting in front of a fireplace. For me it is a time of sliding down snowy slopes, admiring the white winter colored scenery and letting your self to the speed of a piece of wood anchored to your feet.
+  description: For most of the people winter is the season of lethargy, of eating a lot of tasty food and sitting in front of a fireplace. For me it is a time of sliding down snowy slopes, admiring the white colored scenery and letting your self to the speed of a piece of wood anchored to your feets.
 - title: Reading
   icon: book
-  description: Reading is a big part of my life, as it helps me not only to relax and brighten my horizons. Fiction pulls me into a other worlds, worlds often very different from our own, worlds with interesting people and creatures, just worlds, which we can experience only through our imagination. And living through those stories, we learn how to better perceive our own lifes. Nonfictional books are also important, they teach us how are own world is structured and how other real people deal with problems, some big, some small. Combining the knowledge I think makes us better people.
+  description: Reading is a big part of my life, as it helps me relax and brighten my horizons. Fiction pulls me into other worlds, worlds often very different from our own, worlds with interesting people and creatures, just worlds, which we can experience only through our imagination. And living through those stories, we learn how to better perceive our own lifes. Non-fictional books are also important, they teach us how are own world is structured and how other real people deal with problems, some big, some small. Combining the knowledge, I think, makes us better people.
 - title: photography
   icon: camera
   description: To capture a moment in time is something wonderful, when you get the right one. In the past few years, I started to travel a lot more and photography was just something I enjoy doing, when I am at an unfamiliar place. It just feels good, when you capture a concealed smile or the majesty of a mountain.
 - title: Cooking
   icon: utensils
   description: Cooking is something I do not to feed myself, but to treat myself. Although it takes time the food is far more tasty and fulfilling, if you prepare it yourself. Also we are, what we eat, so it is a good thing to know, what is in your meal.
-- title: Board games
-  icon: dice-d20
-  description: Board games are even more fun then computer games. In the last few yeasts I played a lot of them and every one of them has brought me hours of entertainment. Bring some friends and battle them in a game of luck, wits or bout. This is time well spend.
 - title: Computer gaming
   icon: gamepad
   description: Gaming was a big part of my life, maybe the reason I started to learn computer technologies. I still play some games with friend, mostly after work.
+- title: Board games
+  icon: dice-d20
+  description: Board games are even more fun then computer games. In the last few yeasts I played a lot of them and every one of them has brought me hours of entertainment. Bring some friends and battle them in a game of luck, wits or bout. This is time well spend.

@@ -2,7 +2,7 @@
   entries:
     - name: Ruby
       percentage: 90
-    - name: RubyOnRails
+    - name: Ruby on Rails
       percentage: 70
     - name: Javascript
       percentage: 50
@@ -20,7 +20,7 @@
   entries:
     - name: Bulgarian(mother tongue)
       percentage: 90
-    - name: German
-      percentage: 60
     - name: English
+      percentage: 60
+    - name: German
       percentage: 50
