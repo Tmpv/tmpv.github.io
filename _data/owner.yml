@@ -3,10 +3,10 @@ last_name:  Popov
 address:  Sofia, Bulgaria
 email: tmppv.bg@gmail.com
 social_links:
-  - href: "#"
+  - href: "linkedin.com/in/toma-popov-7b0644109"
     icon: "linkedin-in"
-  - href: "#"
-    icon:  "github"
+  # - href: "https://github.com/tmpv"
+  #   icon:  "github"
   # - href: "#"
   #   icon: "twitter"
   # - href: "#"
