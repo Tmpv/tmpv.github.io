@@ -4,14 +4,20 @@
       percentage: 90
     - name: Ruby on Rails
       percentage: 70
-    - name: Javascript
-      percentage: 50
+    - name: Javascript(FrontEnd)
+      percentage: 30
+    - name: Javascript(Backend)
+      percentage: 80
 - category_name: Databases
   entries:
     - name: PostgreSQL
       percentage: 50
     - name: MySQL
       percentage: 20
+    - name: Redis
+      percentage: 50
+    - name: ElasticSearch
+      percentage: 50
 - category_name: Version control
   entries:
     - name: Git
